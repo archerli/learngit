@@ -1,6 +1,6 @@
-#include stdio.h
+//#include stdio.h
 int main()
 {
-count<<"Hello World!";
+cout<<"Hello World!";
 return 0;
 }
